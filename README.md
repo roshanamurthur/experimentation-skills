@@ -8,7 +8,9 @@ Each skill is a self-contained operating manual — trigger conditions, core pri
 
 ## The skill map
 
-The book's 23 chapters are re-chunked into 13 skills organized around the **experiment lifecycle**, not the book's chapter order:
+Start with **[experimentation-principles](skills/experimentation-principles/SKILL.md)** — the whole book's doctrine on one page, linking into the deep dives below.
+
+The book's 23 chapters are re-chunked into 13 deep-dive skills organized around the **experiment lifecycle**, not the book's chapter order:
 
 ### Before the experiment
 | Skill | Covers | Book chapters |
